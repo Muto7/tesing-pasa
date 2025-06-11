@@ -13,8 +13,6 @@ export default async function PostsPage() {
 
   const posts = await res.json();
 
-  console.log(posts);
-
   return (
     <div>
       <div className="">
