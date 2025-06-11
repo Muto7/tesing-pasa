@@ -18,7 +18,7 @@ export default async function UserPostsPage({ params }) {
         <h1 className="text-2xl font-bold mb-2">
           Gagal mengambil post berdasarkan user_id
         </h1>
-        <p>Pastikan user ID valid.</p>
+        <p>Pastikan user ID valid..</p>
       </div>
     );
   }
